@@ -1,0 +1,1 @@
+docker run -p 80:80 -p 9001:9001 -p 8080:8080 -t -i guuuo/javaweb
