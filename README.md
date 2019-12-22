@@ -36,7 +36,7 @@
 ### 4. 使用方法
 1. 克隆Docker及相关配置文件到本地
 ``` bash
-git clone https://github.com/docker-images/Dockerfile-javaweb.git
+git clone https://github.com/guuuuo/Dockerfile-javaweb.git
 ```
 
 2. 构建
